@@ -1,4 +1,4 @@
-package org.scala.program.chap4
+package org.scala.program
 
 import scala.collection.mutable
 
